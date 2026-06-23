@@ -1,11 +1,16 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rashi+Bajpai;Backend+%26+Cloud+Engineer;Open+Source+Contributor;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
-</a>
+<!-- Custom Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=header&text=Rashi%20Bajpai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Cloud%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=18" alt="Banner" />
 
 <br>
+
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Building+Scalable+Backends;Shipping+Cloud-Native+Code;120%2B+Open+Source+PRs;CodeChef+2%E2%AD%90+%7C+Rating+1420" alt="Typing SVG" />
+</a>
+
+<br><br>
 
 <!-- Social Badges -->
 <a href="https://linkedin.com/in/rashi-bajpai-07568232a" target="_blank">
@@ -24,6 +29,11 @@
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
 
+<br>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Rashi1404&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+
 <br><br>
 
 <!-- Animated Divider -->
@@ -32,7 +42,10 @@
 </div>
 
 <!-- About Me -->
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+  About Me
+</h2>
 
 <p align="center">
   <b>B.Tech CSE</b> @ SRMS College of Engineering & Technology | <b>CGPA: 8.2/10</b><br>
@@ -51,7 +64,7 @@
 </div>
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -70,12 +83,21 @@
 
 </div>
 
-<!-- Trophies -->
+<!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Rashi1404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+</div>
+
+<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rashi1404/Rashi1404/output/snake.svg" alt="Snake Animation" />
 
 </div>
 
@@ -147,7 +169,7 @@
 </div>
 
 <!-- Open Source -->
-<h2 align="center">🌍 Open Source</h2>
+<h2 align="center">🌍 Open Source Impact</h2>
 
 <div align="center">
 
@@ -188,3 +210,36 @@
 <h2 align="center">🎯 Current Focus</h2>
 
 <div align="center">
+🔭 Go Microservices  |  🌱 Kubernetes  |  💡 System Design  |  🤝 Open to Collaborate
+
+</div>
+
+<!-- Dev Quote -->
+<h2 align="center">💬 Dev Quote</h2>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+
+<br>
+
+<a href="https://linkedin.com/in/rashi-bajpai-07568232a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:bajpairashi1404@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://portfolio-pi-sandy-21.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=120&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
+
+</div>
