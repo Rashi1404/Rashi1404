@@ -97,7 +97,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rashi1404/Rashi1404/output/snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Rashi1404/Rashi1404/output/ocean.gif" alt="Snake Animation" width="100%" />
 
 </div>
 
