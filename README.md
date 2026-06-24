@@ -1,18 +1,13 @@
 <div align="center">
 
-<!-- Custom Gradient Banner - Dark Purple/Indigo Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:1E1B4B&height=220&section=header&text=Rashi%20Bajpai&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20%26%20Cloud%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=52&descSize=20" alt="Banner" />
-
-<br>
-
-<!-- Animated Typing Header -->
+<!-- Animated Typing Header (More Reliable) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rashi+Bajpai;Building+Scalable+Backends;Shipping+Cloud-Native+Code;120%2B+Open+Source+PRs;CodeChef+2%E2%AD%90+%7C+Rating+1420" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Rashi+Bajpai;Backend+%26+Cloud+Engineer;Shipping+Cloud-Native+Code;120%2B+Open+Source+PRs;CodeChef+2%E2%AD%90+%7C+Rating+1420;Oracle+OCI+Certified" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- Social Badges -->
+<!-- Clean Social Badges -->
 <a href="https://linkedin.com/in/rashi-bajpai-07568232a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -31,12 +26,12 @@
 
 <br>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Rashi1404&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
 
 <br><br>
 
-<!-- Animated Divider -->
+<!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
@@ -71,28 +66,51 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rashi1404&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="400" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Rashi1404&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&border_radius=10" width="400" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi1404&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" width="400" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi1404&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&border_radius=10" width="400" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi1404&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" width="400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi1404&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&border_radius=10" width="400" alt="Top Languages" />
 
 </div>
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- Achievements Grid (Replaces Unreliable Trophies) -->
+<h2 align="center">🏆 Achievements & Highlights</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rashi1404&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/120%2B-PRs%20Merged-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="PRs" /><br>
+      <sub><b>GSSoC 2026</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/2%E2%AD%90-CodeChef%201420-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /><br>
+      <sub><b>Competitive</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/Oracle-OCI%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" /><br>
+      <sub><b>Cloud</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/Google-Big%20Code%20Top%2015%25-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" /><br>
+      <sub><b>Qualifier</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/250%2B-Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" /><br>
+      <sub><b>DSA</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<!-- Snake Animation -->
+<!-- Contribution Snake -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
@@ -211,12 +229,11 @@
 
 <div align="center">
 
-☁️ Cloud Computing   |   🏗️ System Design   |    🐳 DevOps   |   📊 DSA   |   🤝 Open to Collaborate
-
+☁️ Cloud Computing   |   🏗️ System Design   |   🐳 DevOps   |   📊 DSA   |   🤝 Open to Collaborate
 
 </div>
 
-<!-- Dev Quote in Black Box -->
+<!-- Dev Quote -->
 <h2 align="center">💬 Dev Quote</h2>
 
 <div align="center">
@@ -236,12 +253,13 @@
 <a href="mailto:bajpairashi1404@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://portfolio-pi-sandy-21.vercel.app" target="_blank">
+<a href="https://rashibajpai.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <br><br>
 
+<!-- Simple Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:1E1B4B&height=120&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
 
 </div>
