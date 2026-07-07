@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Animated Typing Header (More Reliable) -->
+<!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Rashi+Bajpai;Backend+%26+Cloud+Engineer;Shipping+Cloud-Native+Code;120%2B+Open+Source+PRs;CodeChef+2%E2%AD%90+%7C+Rating+1420;Oracle+OCI+Certified" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- Clean Social Badges -->
+<!-- Social Badges -->
 <a href="https://linkedin.com/in/rashi-bajpai-07568232a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -53,12 +53,10 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,go,python,javascript,html,css,mysql,redis,docker,aws,linux,git,githubactions,kafka&perline=7" alt="Tech Stack" />
-
 </div>
 
-<!-- GitHub Stats -->
+<!-- GitHub Analytics -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -66,23 +64,25 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rashi1404&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&border_radius=10" width="400" alt="GitHub Stats" />
+      <!-- GitHub Stats with cache to avoid rate limits -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Rashi1404&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&border_radius=10&cache_seconds=86400" width="400" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi1404&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&border_radius=10" width="400" alt="GitHub Streak" />
+      <!-- FIXED: Streak Stats using new working domain -->
+      <img src="https://streak-stats.demolab.com?user=Rashi1404&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&border_radius=10" width="400" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi1404&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&border_radius=10" width="400" alt="Top Languages" />
+<!-- Top Languages with cache -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi1404&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&border_radius=10&cache_seconds=86400" width="400" alt="Top Languages" />
 
 </div>
 
-<!-- Achievements Grid (Replaces Unreliable Trophies) -->
+<!-- Achievements -->
 <h2 align="center">🏆 Achievements & Highlights</h2>
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center" width="140">
@@ -107,23 +107,19 @@
     </td>
   </tr>
 </table>
-
 </div>
 
 <!-- Contribution Snake -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Rashi1404/Rashi1404/output/ocean.gif" alt="Snake Animation" width="100%" />
-
 </div>
 
 <!-- Competitive Programming -->
 <h2 align="center">⚡ Competitive Programming</h2>
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center">
@@ -144,14 +140,12 @@
     </td>
   </tr>
 </table>
-
 </div>
 
 <!-- Featured Projects -->
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
-
 <table>
   <tr>
     <td width="50%" align="center">
@@ -183,14 +177,12 @@
     </td>
   </tr>
 </table>
-
 </div>
 
 <!-- Open Source -->
 <h2 align="center">🌍 Open Source Impact</h2>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/GSSoC%202026-120%2B%20PRs%20Merged-FF6F61?style=for-the-badge" alt="GSSoC" /><br><br>
 
 | Repo | PRs | Highlight |
@@ -203,15 +195,35 @@
 
 </div>
 
-<!-- Certifications -->
+<!-- Certifications - CLICKABLE -->
 <h2 align="center">📜 Certifications</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Oracle%20OCI-Data%20Science%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Data Science" />
-<img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI AI" />
-<img src="https://img.shields.io/badge/JPMorgan%20Chase-Software%20Engineering-003087?style=for-the-badge&logo=jpmorgan&logoColor=white" alt="JPMorgan" />
-<img src="https://img.shields.io/badge/Tata%20Group-GenAI%20Data%20Analytics-1E4D8C?style=for-the-badge&logo=tata&logoColor=white" alt="Tata" />
+<a href="https://www.credly.com/badges/oracle-oci-data-science" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle%20OCI-Data%20Science%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Data Science" />
+</a>
+<a href="https://www.credly.com/badges/oracle-oci-ai-foundations" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI AI" />
+</a>
+
+<br><br>
+
+<a href="https://www.theforage.com/simulations/jpmorgan-chase/software-engineering" target="_blank">
+  <img src="https://img.shields.io/badge/JPMorgan%20Chase-Software%20Engineering-003087?style=for-the-badge&logo=jpmorgan&logoColor=white" alt="JPMorgan" />
+</a>
+<a href="https://www.theforage.com/simulations/tata/genai-data-analytics" target="_blank">
+  <img src="https://img.shields.io/badge/Tata%20Group-GenAI%20Data%20Analytics-1E4D8C?style=for-the-badge&logo=tata&logoColor=white" alt="Tata" />
+</a>
+
+<br><br>
+
+<a href="https://www.simplilearn.com" target="_blank">
+  <img src="https://img.shields.io/badge/Simplilearn-Generative%20AI%20for%20Beginners-00A9E0?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+</a>
+<a href="https://www.simplilearn.com" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Trust%20%26%20Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+</a>
 
 </div>
 
@@ -259,7 +271,6 @@
 
 <br><br>
 
-<!-- Simple Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:1E1B4B&height=120&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
 
 </div>
