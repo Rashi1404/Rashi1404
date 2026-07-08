@@ -46,7 +46,7 @@
   <b>B.Tech CSE</b> @ SRMS College of Engineering & Technology | <b>CGPA: 8.2/10</b><br>
   💼 Full Stack SDE Intern @ <b>UptoSkills</b> | 🤖 AI Intern @ <b>Lenovo LEAP</b><br>
   🌟 <b>GSSoC 2026</b> Contributor • ☁️ <b>Oracle OCI</b> Certified<br>
-  🏆 <b>CodeChef 2-Star</b> (Rating 1420) • 250+ Problems Solved
+  🏆 <b>CodeChef 2-Star</b> (Rating 1460) • 250+ Problems Solved
 </p>
 
 <!-- Tech Stack -->
@@ -125,7 +125,7 @@
     <td align="center">
       <a href="https://codechef.com/users/rashi_1404" target="_blank">
         <img src="https://img.shields.io/badge/CodeChef-2%E2%AD%90%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /><br>
-        <sub>Rating 1420 | 250+ Problems | 💎 100-Day Streak</sub>
+        <sub>Rating 1460 | 250+ Problems | 💎 100-Day Streak</sub>
       </a>
     </td>
     <td align="center">
@@ -241,12 +241,12 @@
 
 <div align="center">
 
-☁️ Cloud Computing   |   🏗️ System Design   |   🐳 DevOps   |   📊 DSA   |   🤝 Open to Collaborate
+☁️ Cloud Computing   |   🏗️ System Design   |   🐳 DevOps   |   📊 DSA   |  🤝 Open to Collaborate
 
 </div>
 
 <!-- Dev Quote -->
-<h2 align="center">💬 Dev Quote</h2>
+<h2 align="center">💬 Dev Quote </h2>
 
 <div align="center">
 
